@@ -111,7 +111,7 @@
           },
           "title": "Международная школа смешанного обучения<br>International Blended Learning School (IBLS)<br>&nbsp; &nbsp; &nbsp; &nbsp;",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Войти</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Войти</a> "
         },
         {
           "_inherit": "features1",
