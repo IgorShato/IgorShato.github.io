@@ -173,7 +173,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/167752.svg",
+              "src": "@PROJECT_PATH@/assets/images/professor-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
