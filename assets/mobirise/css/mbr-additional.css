@@ -4,7 +4,7 @@
   font-size: 16px;
 }
 #ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
+  background: #475577;
 }
 #ext_menu-1 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -42,7 +42,7 @@
   color: #000000;
 }
 #testimonials1-32 .mbr-section__header {
-  color: #cccccc;
+  color: #ffffff;
 }
 #header1-3f P {
   color: #ffffff;
@@ -57,28 +57,4 @@
   color: #c1c1c1;
   text-align: center;
   font-size: 12px;
-}
-#ext_menu-c .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
-}
-#ext_menu-c .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-c .mbr-navbar__items a {
-  font-size: 14px;
-}
-#ext_menu-e .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-e.mbr-navbar--stuck .mbr-navbar__section {
-  background: #7c706b;
-}
-#ext_menu-e .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-e .mbr-navbar__items a {
-  font-size: 14px;
 }
