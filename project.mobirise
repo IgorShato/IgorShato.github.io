@@ -88,7 +88,7 @@
             "H1": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_anchor": "header4-3",
@@ -109,7 +109,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "showArrow": true
           },
           "title": "Международная школа смешанного обучения<br>International Blended Learning School (IBLS)<br>&nbsp; &nbsp; &nbsp; &nbsp;",
           "text": "",
@@ -170,7 +170,7 @@
             }
           },
           "title1": "Удобная система дистанционного обучения и аттестации",
-          "caption1": "Заочные и очно-заочные программы с гибкой системой аттестации. Программа для каждого ученика строится на основе индивидуальных пожеланий, собственного графика обучения",
+          "caption1": "Система IBLS - Наши Пенаты предлагает заочные и очно-заочные программы с гибкой системой аттестации. Программа для каждого ученика строится на основе индивидуальных пожеланий, собственного графика обучения&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -193,13 +193,13 @@
               "size": 0
             }
           },
-          "title2": "Взаимодействие с учителем",
-          "caption2": "Регулярный систематический контакт с учителем и другими учащимися кибераудитории. Дистанционные программы сегодня особенно популярны среди тех, кто выбирает семейное и домашнее обучение",
+          "title2": "Поддержка учителей",
+          "caption2": "Преподаватели регулярно организуют консультации по своим предметам специально для обучающихся по дистанционным программам. Это позволяет учащимся IBLS - Наши Пенаты добиться высоких показателей при сдаче ОГЭ, ЕГЭ и поступить в выбранный вуз&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/laptop-1-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/map-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -217,8 +217,8 @@
               "size": 0
             }
           },
-          "title3": "Индивидуальные образовательные траектории",
-          "caption3": "Развитие индивидуальности каждого ребенка на основе его способностей и интересов&nbsp;",
+          "title3": "Установочные консультации",
+          "caption3": "При поступлении на программу дистанционного обучения, учащийся получает первые установочные консультации, где определяются образовательные приоритеты и комфортный режим обучения ребенка. Дети и родители знакомятся с системой IBLS - Наши Пенаты",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -313,7 +313,7 @@
             "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "4",
+            "columns": "3",
             "showImages": true,
             "showTitles": false,
             "showCaptions": true,
@@ -405,7 +405,7 @@
             }
           },
           "title3": "Внесение в контингент АИС",
-          "caption3": "Внесение в контингент АИС",
+          "caption3": "Внесение в контингент АИС (сводную отчетность системы образования города Москвы)",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -504,7 +504,7 @@
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": false,
             "showCaptions": true,
@@ -515,7 +515,7 @@
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/signing-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/tablet-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -539,11 +539,11 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Сдача&nbsp;итоговых аттестаций (ГИА-9, ГИА-11)",
+          "caption1": "Дистанционная сдача текущих и промежуточных аттестаций 2 или 3 раза в год",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kindergarten-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/signing-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -567,11 +567,11 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Сотрудничество с семейными школами, сдача аттестаций на их площадках",
+          "caption2": "Сдача итоговых аттестаций (ГИА-9, ГИА-11)",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/target-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/kindergarten-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -595,7 +595,7 @@
             }
           },
           "title3": "WEB FONTS",
-          "caption3": "Бесплатное прикрепление детей, имеющих регистрацию в Москве",
+          "caption3": "Сотрудничество с семейными школами, сдача аттестаций на их площадках",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -694,7 +694,7 @@
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": false,
             "showCaptions": true,
@@ -706,7 +706,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/book-2-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/target-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -729,12 +729,12 @@
             }
           },
           "title1": "BOOTSTRAP 3",
-          "caption1": "Программы экстерната  позволяющие изучать предмет по&nbsp;&nbsp;индивидуальному учебному плану&nbsp;и проходить аттестацию за двухгодичный курс&nbsp;",
+          "caption1": "Бесплатное прикрепление детей, имеющих регистрацию в Москве",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/050-heart-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/video-call-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -757,12 +757,12 @@
             }
           },
           "title2": "RESPONSIVE",
-          "caption2": "Обучение детей с особенностями развития, имеющих индивидуальные черты и неординарные способности",
+          "caption2": "Проведение очных и дистанционных консультационных сессий",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/graduates-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/050-heart-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -785,7 +785,7 @@
             }
           },
           "title3": "WEB FONTS",
-          "caption3": "Включение в сообщество сверстников которые занимаются по тем же программам и работают совместно в рамках форумов и групп в социальных сетях",
+          "caption3": "Обучение детей с особенностями развития, имеющих индивидуальные черты и неординарные способности",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -876,76 +876,24 @@
             }
           },
           "_anchor": "content1-3v",
-          "text": "<p></p><p></p><p></p><p></p><h3>ДИСТАНЦИОННОЕ ОБУЧЕНИЯ В ШКОЛЕ ПОДХОДИТ:&nbsp;</h3><h3><br></h3><ul><li><span style=\"color: rgb(119, 119, 119); font-size: 17px; line-height: 27px; text-align: left;\">&nbsp;Детям, которые имеют возможность получать образование вне школы</span></li><li><span style=\"text-align: left; color: rgb(119, 119, 119); font-size: 17px; line-height: 27px;\">Одарённым и высокомотивированным учащимся, благополучно совмещающим обучение в школе и не менее значимую для них профессиональную деятельность (спорт, музыку, рисование, танцы, актёрское мастерство, реализацию собственных бизнес-проектов)</span></li><li>Желающим получить аттестаты государственного образца за 9 и 11 классы</li><li>Детям с ограниченными возможностями здоровья, которым требуется индивидуальная программа обучения</li><li>Нуждающимся в дистанционной репетиторской поддержке по ряду предметов</li><li>Детям, имеющим гражданство иностранных государств, например стран СНГ, готовящимся к поступлению в российский вуз</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><ul><li>Временно или постоянно проживающим за рубежом и в отдалённых регионах России, не имеющим возможности ежедневно посещать общеобразовательную школу и получать качественное образование</li></ul>"
-        },
-        {
-          "items": [
-            {
-              "text": "<p><b>ФОРМЫ ОБУЧЕНИЯ</b></p>Самоподготовка по персональному учебному плану, дистанционные уроки, конференции, семинары, деловые игры, лабораторные работы, практикумы и другие формы учебных занятий, проводимых на базе платформы IBLS<p><br></p>",
-              "authorName": "ABANOUB S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p><b>&nbsp; &nbsp; &nbsp;ТЬЮТОРЫ (НАСТАВНИКИ)</b></p>Учащимся дистанционной формы могут быть предоставлены наставники (тьюторы -консультанты по образовательному процессу, которые оказывают ученикам помощь в организации учебной деятельности). Преподавателями в режиме он- и оффлайн осуществляют методическую поддержку по каждому предмету учебного плана. Это позволяет учащимся IBLS-Наши пенаты добиться высоких показателей при сдаче ОГЭ, ЕГЭ<p><br></p>",
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p><b>УСТАНОВОЧНЫЕ КОНСУЛЬТАЦИИ</b></p>При поступлении на программу дистанционного обучения учащийся получает первые установочные консультации, в ходе которых определюятся образовательные приоритеты и комфортный режим обучения ребенка<p><br></p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section__header": {
-              "color": "#ffffff"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p><b>ФОРМЫ ОБУЧЕНИЯ</b></p>Самоподготовка по персональному учебному плану, дистанционные уроки, конференции, семинары, деловые игры, лабораторные работы, практикумы и другие формы учебных занятий, проводимых на базе платформы IBLS<p><br></p>",
-              "authorName": "ABANOUB S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p><b>&nbsp; &nbsp; &nbsp;ТЬЮТОРЫ (НАСТАВНИКИ)</b></p>Учащимся дистанционной формы могут быть предоставлены наставники (тьюторы -консультанты по образовательному процессу, которые оказывают ученикам помощь в организации учебной деятельности). Преподавателями в режиме он- и оффлайн осуществляют методическую поддержку по каждому предмету учебного плана. Это позволяет учащимся IBLS-Наши пенаты добиться высоких показателей при сдаче ОГЭ, ЕГЭ<p><br></p>",
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p><b>УСТАНОВОЧНЫЕ КОНСУЛЬТАЦИИ</b></p>При поступлении на программу дистанционного обучения учащийся получает первые установочные консультации, в ходе которых определюятся образовательные приоритеты и комфортный режим обучения ребенка<p><br></p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-32",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "count": 3,
-            "showName": false,
-            "showBio": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
-            "bgColor": "#2969b0",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
-          },
-          "header": "Система обучения"
+          "text": "<p></p><p></p><p></p><p></p><h3>ДИСТАНЦИОННОЕ ОБУЧЕНИЯ В ШКОЛЕ ПОДХОДИТ:&nbsp;</h3><h3><br></h3><ul><li><span style=\"color: rgb(119, 119, 119); font-size: 17px; line-height: 27px; text-align: left;\">&nbsp;Детям, которые имеют возможность получать образование вне школы;</span></li><li><span style=\"text-align: left; color: rgb(119, 119, 119); font-size: 17px; line-height: 27px;\">Одарённым и высокомотивированным учащимся, благополучно совмещающим обучение в школе и не менее значимую для них профессиональную деятельность (спорт, музыку, рисование, танцы, актёрское мастерство, реализацию собственных бизнес-проектов);</span></li><li>Желающим получить аттестаты государственного образца за 9 и 11 классы;</li><li>Детям с ограниченными возможностями здоровья, которым требуется индивидуальная программа обучения;</li><li>Нуждающимся в дистанционной репетиторской поддержке по ряду предметов;</li><li>Детям, имеющим гражданство иностранных государств, например стран СНГ, готовящимся к поступлению в российский вуз;</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><ul><li>Временно или постоянно проживающим за рубежом и в отдалённых регионах России, не имеющим возможности ежедневно посещать общеобразовательную школу и получать качественное образование</li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "features1-34",
           "_params": {
             "paddingTop": "1",
@@ -953,7 +901,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#2372c9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -994,8 +942,8 @@
               "size": 0
             }
           },
-          "title1": "Обучение и тестирование",
-          "caption1": "Учащиеся дистанционной формы, проходят темы учебного плана в режиме самоподготовки. По итогам самоподготовки учащиеся проходят закрепляющие тематические тесты.  Оценки выставляются в электронный журнал",
+          "title1": "Форма обучения",
+          "caption1": "Учащиеся дистанционной формы, проходят темы учебного плана в режиме самоподготовки по персональному учебному план, совмещая это с дистанционными и очными консультациями с учителем, По итогам самоподготовки учащиеся, по желанию, дистанционно проходят закрепляющие тематические тесты",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1019,7 +967,7 @@
             }
           },
           "title2": "АТТЕСТАЦИЯ",
-          "caption2": "Аттестация проводится 2 раза в год для 1, 10, 11 классов (по полугодиям) и 3 раза в год (по триместрам) для 2-9 классов",
+          "caption2": "Обязательная аттестация проводится 2 раза в год для 1, 10, 11 классов (по полугодиям) и 3 раза в год (по триместрам) для 2-9 классов. Аттестация проводится в дистанционном или очном режиме. Оценки заносятся в АИС (Сводную отчетность системы образования города Москвы)",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1043,7 +991,7 @@
             }
           },
           "title3": "КОНТРОЛЬНЫЕ РАБОТЫ",
-          "caption3": "Для прохождения аттестации учащийся дистанционно выполняет контрольные работы через систему IBLS. В случае наличия проблем с интернет-соединением, задания направляются по электронной почте, учащийся направляет в ответ сканированные листы с выполненной работой, либо организует доставку оригиналов на проверку в школу",
+          "caption3": "Учащиеся дистанционно выполняют контрольные работы через систему IBLS (для этого требуется планшет/компьютер с доступом в интернет). В случает проблем с интернет-соединением, задания направляются на проверку по электронной почте (сканированные листы с выполненной работой), либо высылаются обычной почтой на адрес школы&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1137,8 +1085,8 @@
             "showButtons": false,
             "showArrow": false
           },
-          "title": "Лучшая дистанционная образовательная программа в России!&nbsp;<br><br>",
-          "text": "&nbsp;<b>Платное и бесплатное обучение</b><br><br>&nbsp;<b>Базовые и &nbsp;продвинутые программы<br><br>&nbsp;Наши выпускники - в самых престижных российских и зарубежных вузах<br><br>&nbsp;Круглогодичный набор&nbsp;</b>",
+          "title": "Самая удобная дистанционная образовательная программа в России!&nbsp;<br><br>",
+          "text": "&nbsp;Платное и бесплатное обучение<br><br>&nbsp;Продвинутая и удобная система тестирования<br><br>&nbsp;Гибкий график аттестаций<br><br><b>&nbsp;</b>Уверенная сдача ЭГЕ и ОГЭ<br>&nbsp;<br>&nbsp;Наши выпускники - в самых престижных российских и &nbsp; зарубежных вузах<br><br>Круглогодичный набор &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> "
         },
         {
@@ -1170,7 +1118,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Ваше имя"
+                "customTitle": "Ваше имя*"
               },
               "email": {
                 "title": "Email",
@@ -1180,7 +1128,7 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Телефон"
+                "customTitle": "Телефон*"
               },
               "message": {
                 "title": "Message",

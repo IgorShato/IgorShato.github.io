@@ -14,7 +14,7 @@
 }
 #header4-3 H1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 48px;
+  font-size: 46px;
 }
 #features1-2g .mbr-section__col .mbr-header__text SPAN {
   text-align: left;
@@ -41,8 +41,14 @@
 #content1-3v B {
   color: #000000;
 }
-#testimonials1-32 .mbr-section__header {
+#features1-34 .mbr-section-title .mbr-header__text {
   color: #ffffff;
+}
+#features1-34 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-34 P {
+  color: #cccccc;
 }
 #header1-3f P {
   color: #ffffff;
