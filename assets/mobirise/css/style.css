@@ -819,8 +819,8 @@ html {
   position: relative;
 }
 .mbr-hero__text {
-  font-size: 38px;
-  font-weight: normal;
+  font-size: 36px;
+  font-weight: bold;
   left: -2px;
   letter-spacing: 2px;
   line-height: 50px;
